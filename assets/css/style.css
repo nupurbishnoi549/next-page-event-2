@@ -101,13 +101,19 @@
 }
 
 .cardBtn {
-    background: #2C49FE;
-    padding: 11px 28px;
+    
+   
     border-radius: 23px;
-    color: white;
+    color: white;font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 24px;
+        text-align: left;
     text-transform: capitalize;
     border: none;
+    background: #2C49FE;
     cursor: pointer;
+   padding: 11px 28px 11px 28px;
 }
 
 .me-8 {
